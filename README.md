@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Tech stuff, new things about ai and progarmming](Tech stuff, new things about ai and programming)
 
-- 💬 Ask me about **Python,SQL,AI**
+- 💬 Ask me about **Python,SQL,AI,powerbi**
 
 - 📫 How to reach me **vullagantiramakrishna@gmail.com**
 
