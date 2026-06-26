@@ -5,7 +5,7 @@ I build small, working AI products — not just tutorial code. Most of what's he
 🔭 Currently focused on: **LLM agents, prompt engineering, and lightweight AI-product architecture (local LLMs via Ollama + serverless inference via Cloudflare Workers AI)**
 🌱 Looking for: **AI / ML / GenAI engineering roles**
 💬 Ask me about: prompt design, Ollama, Cloudflare Workers AI, Streamlit
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramakrishnavullaganti/) · rama.krish36@gmail.com
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramakrishnavullaganti/) · ramakrishnavullaganti@gmail.com
 
 ---
 
