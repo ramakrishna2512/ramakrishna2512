@@ -39,7 +39,3 @@ Five small, single-purpose local agents built around Ollama: a prompt evaluator,
 
 ---
 
-## 📊 GitHub stats
-
-![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramakrishna2512&show_icons=true&theme=default&hide_title=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishna2512&layout=compact&hide_title=true)
