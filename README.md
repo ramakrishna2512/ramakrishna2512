@@ -1,25 +1,45 @@
-<h1 align="center">Hi 👋, I'm Rama Krishna Vullaganti</h1>
-<h3 align="center">A passionate Data early professional from India</h3>
+# 👋 Hi, I'm Rama Krishna
 
-- 🌱 I’m currently learning **Data science**
+I build small, working AI products — not just tutorial code. Most of what's here ships an actual API or app: a Cloudflare Workers AI backend with a live endpoint, a Streamlit frontend that talks to it, or a local LLM agent you can run in one command.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramakrishna2512](https://github.com/ramakrishna2512)
+🔭 Currently focused on: **LLM agents, prompt engineering, and lightweight AI-product architecture (local LLMs via Ollama + serverless inference via Cloudflare Workers AI)**
+🌱 Looking for: **AI / ML / GenAI engineering roles**
+💬 Ask me about: prompt design, Ollama, Cloudflare Workers AI, Streamlit
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramakrishnavullaganti/) · rama.krish36@gmail.com
 
-- 📝 I regularly write articles on [Tech stuff, new things about ai and progarmming](Tech stuff, new things about ai and programming)
+---
 
-- 💬 Ask me about **Python,SQL,AI,powerbi**
+## 🚀 Featured projects
 
-- 📫 How to reach me **vullagantiramakrishna@gmail.com**
+### 🏢 [Enterprise AI QA Auditor](https://github.com/ramakrishna2512/ai-agents-hub/tree/main/ai-qa-auditor)
+A QA assistant that takes a feature spec or prompt and produces a prompt-quality review, a functional gap analysis, a security review, and a matching set of automated pytest cases — with the test count verified using Python's `ast` module so the LLM can't fudge the number. Deterministic LLM config, JSON-schema-validated output, retry logic, structured logging.
+`Python` `Streamlit` `Ollama` `JSON Schema` `AST validation`
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1blNt2B_6Kv44Z3q0bBdzT3f_AXaUmg_OZpRysH_w_w0/edit?usp=sharing](https://docs.google.com/document/d/1blNt2B_6Kv44Z3q0bBdzT3f_AXaUmg_OZpRysH_w_w0/edit?usp=sharing)
+### 📧 AI Email Writer — [live demo](https://email-writer.vullagantiramakrishna.workers.dev/) · [frontend](https://github.com/ramakrishna2512/email-writer-cloudflare-frontend) · [backend](https://github.com/ramakrishna2512/email-writer-cloudflare-backend)
+Generates tone-aware professional emails. Streamlit UI → Cloudflare Worker → Workers AI (Llama-3-8B). Deployed and callable right now, not just runnable locally.
+`Streamlit` `Cloudflare Workers AI` `Llama 3` `Serverless`
 
-- ⚡ Fun fact **i love creating memes in free time**
+### ✍️ AI Prompt Rewriter — [live demo](https://prompt-rewriter-cloudflare.vullagantiramakrishna.workers.dev) · [repo](https://github.com/ramakrishna2512/prompt-rewriter-cloudflare)
+Rewrites a rough prompt into a clearer one while preserving intent. Same pattern: Streamlit UI calling a deployed Cloudflare Workers AI endpoint (Mistral-7B).
+`Streamlit` `Cloudflare Workers AI` `Mistral 7B`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramakrishnavullaganti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramakrishnavullaganti/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@ramakrishnavullaganti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ramakrishnavullaganti" height="30" width="40" /></a>
-</p>
+### 🧠 [AI Agents Suite](https://github.com/ramakrishna2512/ai-agents-hub)
+Five small, single-purpose local agents built around Ollama: a prompt evaluator, a prompt rewriter, a task clarifier, a task planner, and the QA auditor above. Each agent does one thing, runs fully offline, and ships with its own README and example output.
+`Python` `Ollama` `LLaMA 3` `Mistral`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Stack
+
+**Languages:** Python, JavaScript
+**AI/LLM:** Ollama (local inference), Cloudflare Workers AI, prompt engineering, JSON-schema-constrained output
+**App layer:** Streamlit
+**Infra:** Cloudflare Workers, Wrangler
+**Testing:** Vitest, Pytest, AST-based validation
+
+---
+
+## 📊 GitHub stats
+
+![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramakrishna2512&show_icons=true&theme=default&hide_title=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishna2512&layout=compact&hide_title=true)
